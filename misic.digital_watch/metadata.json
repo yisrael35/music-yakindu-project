@@ -1,0 +1,12 @@
+{
+	"id": "music-project",
+	"title": "music",
+	"author": "itemis AG",
+	"description": "This music was first designed by yisrael, the founder of the app.",
+	"previewImage": "music_thumb.jpg",
+	"category": [
+		"open source",
+		"advanced"
+	],
+	"rank":10
+}

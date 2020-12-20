@@ -1,7 +1,9 @@
-#Sun Dec 20 18:48:12 IST 2020
+#Sun Dec 20 19:31:11 IST 2020
 rulergrid.rulerunit=1
 print.margin.left=0.5
+viewport.x=526
 rulergrid.gridlinestyle=6
+viewport.y=420
 zoom=1.0
 print.useMillim=true
 print.usePortrait=true

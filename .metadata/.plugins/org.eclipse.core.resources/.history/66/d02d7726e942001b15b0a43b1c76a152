@@ -79,7 +79,7 @@
               <vertices xsi:type="sgraph:Synchronization" xmi:id="_Btv30KHlEeWijoaLnhzRTg" incomingTransitions="_K2gMEKHlEeWijoaLnhzRTg _MHaaUKHlEeWijoaLnhzRTg">
                 <outgoingTransitions xmi:id="_WH6HkBxDEeKIxfpHJtPpBA" specification="" target="_05f3YBxBEeKIxfpHJtPpBA"/>
               </vertices>
-              <vertices xsi:type="sgraph:State" xmi:id="_Pda08ELkEeuhvsshfxdBPg" name="Profile" incomingTransitions="_kNUWAELlEeuhvsshfxdBPg"/>
+              <vertices xsi:type="sgraph:State" xmi:id="_Pda08ELkEeuhvsshfxdBPg" name="Profil" incomingTransitions="_kNUWAELlEeuhvsshfxdBPg"/>
               <vertices xsi:type="sgraph:Entry" xmi:id="_TtI9sELkEeuhvsshfxdBPg">
                 <outgoingTransitions xmi:id="_UXHu0ELkEeuhvsshfxdBPg" specification="" target="_05f3YBxBEeKIxfpHJtPpBA"/>
               </vertices>

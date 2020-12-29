@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:music.ysc
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:music.ysc,org.eclipse.launchbar.core.descriptorType.default\:music.ysc (1)
 eclipse.preferences.version=1
 org.eclipse.launchbar.core.descriptorType.default\:music.ysc/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:music.ysc/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

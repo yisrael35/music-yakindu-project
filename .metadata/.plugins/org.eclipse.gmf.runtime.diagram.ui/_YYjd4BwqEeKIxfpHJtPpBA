@@ -1,10 +1,10 @@
-#Sun Dec 20 19:31:11 IST 2020
+#Tue Dec 29 11:47:57 IST 2020
 rulergrid.rulerunit=1
 print.margin.left=0.5
-viewport.x=526
+viewport.x=0
 rulergrid.gridlinestyle=6
-viewport.y=420
-zoom=1.0
+viewport.y=630
+zoom=0.6
 print.useMillim=true
 print.usePortrait=true
 print.page.height=11.6929134
